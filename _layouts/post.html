@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en-gb">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="/assets/css/post.css">
+    <link rel="icon" href="/assets/favicon.ico">
+    <title>{{ site.title }}</title>
+</head>
+<body>
+<header>
+    <div class="container title-container">
+        <h1 class="logo">shrapnelnet</h1>
+    </div>
+</header>
+<main>
+    <div class="container">
+        <article>
+            <div id="content" class="use-ibm">
+                <div id="title">
+                    <h1>{{ page.title }}</h1>
+                </div>
+                <div id="date">
+                    <p>{{ page.date | date: "%a, %d %b %Y, %r" }}</p>
+                </div>
+                <sub>by tyler, yes, the tyler!</sub>
+                <div class="flex-newline"></div>
+                <img src="/assets/graphics/duckzone.gif" alt="waddling animated ducks" class="ducks"/>
+                {{ content }}
+            </div>
+        </article>
+        <a href="/">back home!</a>
+    </div>
+</main>
+
+</body>
+</html>

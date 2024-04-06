@@ -1,0 +1,8 @@
+title: shr4pnelblog !!
+description: Ruminations on music, the world and whatever rubbish pops into my head delivered straight to you.
+url: blog.shr4pnel.com
+author: tyler!
+plugins:
+    - jekyll-feed
+exclude:
+    - .idea

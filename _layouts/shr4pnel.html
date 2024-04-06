@@ -1,0 +1,386 @@
+<!doctype html>
+<html lang="en-gb">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" href="/assets/favicon.ico">
+    <link rel="stylesheet" href="/assets/css/index.css">
+    <title>{{ page.title }}</title>
+</head>
+<body>
+    <header>
+        <div class="container title-container">
+            <h1 class="logo">shrapnelnet</h1>
+            <p id="quote"></p>
+        </div>
+    </header>
+    <main>
+        <div class="container">
+            <h2 class="highlighted">article</h2>
+            <div id="articles">
+                {% for post in site.posts %}
+                    <article>
+                        <div class="card">
+                            <img src="/assets/graphics/anon.png" alt="little face with sunglasses">
+                            <a href="{{ post.url }}">{{ post.title }}</a>
+                            <p>{{ post.date | date: "%d/%m/%y" }}</p>
+                        </div>
+                    </article>
+                {% endfor %}
+                <p>or uhh just play <a href="#">minesweeper</a> :3</p>
+                <img src="/assets/graphics/cutiecat.png" alt="little animated cats in a line">
+            </div>
+            <div id="socials">
+                <h2 class="highlighted">socials</h2>
+                <div>
+                    <div class="fake-logo"></div>
+                    <a href="mailto:admin@shr4pnel.com">My email</a>
+                </div>
+                <div>
+                    <img
+                            src="/assets/graphics/github-mark.svg"
+                            alt="github logo"
+                            width="32"
+                            height="32"
+                    />
+                    <a href="https://github.com/shrapnelnet/" target="_blank" rel="noreferrer">
+                        github/shrapnelnet
+                    </a>
+                </div>
+                <div>
+                    <img src="/assets/graphics/mastodon.svg" alt="mastodon logo" width="32" height="32"/>
+                    <a href="https://blobfox.coffee/@tyler" target="_blank" rel="noreferrer">
+                        @tyler@blobfox.coffee
+                    </a>
+                </div>
+                <div>
+                    <img src="/assets/graphics/rss_optimised.png" alt="rss logo" width="32" height="32" />
+                    <a href="/feed.xml">RSS feed</a>
+                </div>
+            </div>
+            <div id="friends">
+                <h2 class="highlighted">friends</h2>
+                <div class="friend-container">
+                    <a href="/">
+                        <img
+                                src="/assets/buttons/blogbutton.gif"
+                                alt="blog.shr4pnel.com blog button. has a little animated cat called mauzy on it"
+                                loading="lazy"
+                        />
+                    </a>
+                    <a href="https://foreverliketh.is">
+                        <img
+                                src="/assets/buttons/foreverliketh.is.png"
+                                alt="foreverliketh.is blog banner. green leaves with light blue text in front"
+                                loading="lazy"
+                        />
+                    </a>
+                    <a href="https://angelsaremathematical.neocities.org/" target="_blank" rel="noreferrer">
+                        <img
+                                src="/assets/buttons/angels.png"
+                                alt="pink background with confetti with original apple pink CRT with monospaced font reading angels are mathematical"
+                                loading="lazy"
+                        />
+                    </a>
+                    <a href="https://blunt.gay" target="_blank" rel="noreferrer">
+                        <img
+                                src="/assets/buttons/bluntgay.png"
+                                alt="purple outline and text, monospaced, rainbow left aligned, text right aligned"
+                                loading="lazy"
+                        />
+                    </a>
+                    <a href="https://gapandfriends.neocities.org" target="_blank" rel="noreferrer">
+                        <img
+                                src="/assets/buttons/IMG_7032.png"
+                                alt="blue chequered backdrop, red text reading: gap &amp; friends"
+                                loading="lazy"
+                        />
+                    </a>
+                    <a href="https://aboboracandy.neocities.org" target="_blank" rel="noreferrer">
+                        <img
+                                src="/assets/buttons/aboborabtn.gif"
+                                alt="a forest cabin with a smoking chimney next to swirling orange autumn leaves"
+                                loading="lazy"
+                        />
+                    </a>
+                    <a href="https://myyolo1999.blogspot.com" target="_blank" rel="noreferrer">
+                        <img
+                                src="/assets/buttons/porcupine.png"
+                                alt="text reads: 'blog read', 'personality? no $$$ 4 dat!'"
+                                loading="lazy"
+                        />
+                    </a>
+                    <a href="https://whitevhs.xyz" target="_blank" rel="noreferrer">
+                        <img
+                                src="/assets/buttons/whitevhs.gif"
+                                alt="monochrome 2 frame gif which inverts on each frame change. shows a vhs tape."
+                                loading="lazy"
+                        />
+                    </a>
+                    <a href="https://idelides.xyz" target="_blank" rel="noreferrer">
+                        <img
+                                src="/assets/buttons/idelides.png"
+                                alt="idelides - the lazy goddess"
+                                loading="lazy"
+                        />
+                    </a>
+                    <a href="https://dumbdizzy.neocities.org/" target="_blank" rel="noreferrer">
+                        <img
+                                src="/assets/buttons/dumbdizzy.gif"
+                                alt="blurred bunny with text reading dumbdizzy in black to yellow downwards gradient"
+                                loading="lazy"
+                        />
+                    </a>
+                    <a href="https://voicedrew.xyz/" target="_blank" rel="noreferrer">
+                        <img
+                                src="/assets/buttons/voicedrew.gif"
+                                alt="voicedrew's button!"
+                                loading="lazy"
+                        />
+                    </a>
+                    <a href="https://zinricky.tilde.team/" target="_blank" rel="noreferrer">
+                        <img
+                                src="/assets/buttons/zinricky.png"
+                                alt="zinrickys button !"
+                                loading="lazy"
+                        />
+                    </a>
+                    <a href="https://psychcool.neocities.org" target="_blank" rel="noreferrer">
+                        <img
+                                src="/assets/buttons/psychool.png"
+                                alt="psychools button! lots of colours and wow and cool and etc"
+                                loading="lazy"
+                        />
+                    </a>
+                    <a href="https://gau7ilu.xyz" target="_blank" rel="noreferrer">
+                        <img
+                                src="/assets/buttons/gau7ilu.png"
+                                alt="gau7ilu's blog button!"
+                                loading="lazy"
+                        />
+                    </a>
+                </div>
+                <h2 class="highlighted">lainchan</h2>
+                <div class="friend-container lain">
+                    <div class="friend-container lain">
+                        <sub class="lain-text">
+                            i am manually curating and adding to this list, please contact me at
+                            <a href="mailto:admin@shr4pnel.com">admin@shr4pnel.com</a>&nbsp;or my
+                            mastodon if you&apos;d like to be added. feel free to add my button to your
+                            blog, and the lainchan button onto your blog after sending your button
+                            to the post there on the /tech/ section of the forum.
+                        </sub>
+                        <sub class="lain-text">
+                            and please feel free to email me. i love hearing from new people and its
+                            nice to not be the one reaching out.
+                        </sub>
+                        <span class="flex-wrap"></span>
+                        <a href="/">
+                            <img
+                                    src="/assets/lain/blog.shr4pnel.com.gif"
+                                    loading="lazy"
+                                    alt="grey background, style of windows 9x button, cat called mauzy next to animated text which reads: blog.shr4pnel.com (disappears) you like blogs dont you?"
+                            />
+                        </a>
+                        <a href="https://forum.agoraroad.com" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/agora.gif"
+                                    loading="lazy"
+                                    alt="animated gif with scrolling fading out text: shhhhh (fade out) the best kept secret"
+                            />
+                        </a>
+                        <a href="https://articexploit.xyz" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/arcade.gif"
+                                    loading="lazy"
+                                    alt="animated gif with retropunk text outlined in blue filled with pink spelling: the arcade. background is a flashing arcade with lit up screens"
+                            />
+                        </a>
+                        <a href="https://lainchan.org" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/lainchan.org.gif"
+                                    loading="lazy"
+                                    alt="distorted gif with face of lain iwakura next to the font from the show in the top right reading: lainchan."
+                            />
+                        </a>
+                        <a href="https://gamajun.neocities.org/webrings/assets/lainring" target="_blank"
+                           rel="noreferrer">
+                            <img
+                                    src="/assets/lain/gamajun.png"
+                                    loading="lazy"
+                                    alt="grey background, pink design and text, glyphs surrounded by floral pattern"
+                            />
+                        </a>
+                        <a href="https://havinganame.neocities.org" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/havinganame.png"
+                                    loading="lazy"
+                                    alt="still image, neon green text on black backdrop. reads: havinganame@neocities"
+                            />
+                        </a>
+                        <a href="https://cabbagesorter.neocities.org/" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/cabbagesorter.png"
+                                    loading="lazy"
+                                    alt="still image, monospaced green font on black backdrop. face in anime style to right of image with glow effect applied around it. text is glowing green around the edges"
+                            />
+                        </a>
+                        <a href="https://foreverliketh.is" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/foreverliketh.is.gif"
+                                    loading="lazy"
+                                    alt="foreverliketh.is blog banner. green leaves with light blue text in front"
+                            />
+                        </a>
+                        <a href="https://sizeof.cat" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/sizeofcat.gif"
+                                    loading="lazy"
+                                    alt="white text on black background with blue cat. animated, cats eyes turn red and it rolls offscreen to the right. text reads: sizeof. cat is on the right of this text"
+                            />
+                        </a>
+                        <a href="https://varchar.neocities.org/" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/varchar.png"
+                                    loading="lazy"
+                                    alt="ascii art green terminal stylised text reading: varchar"
+                            />
+                        </a>
+                        <a href="https://猫.移动/webring/" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/xn-neko.gif"
+                                    loading="lazy"
+                                    alt="catgirl moving left and right next to 3d japanese characters"
+                            />
+                        </a>
+                        <a href="https://jahanrashidi.com/explore/" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/smile.png"
+                                    alt="emoticon smiley face on a grey backdrop"
+                                    loading="lazy"
+                            />
+                        </a>
+                        <a href="https://bass2nick.com" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/bass2nick.gif"
+                                    loading="lazy"
+                                    alt="round empty snail-like shell flashing in a circular motion reading: bass2nick.com"
+                            />
+                        </a>
+                        <a href="https://0x19.org" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/0x19.png"
+                                    loading="lazy"
+                                    alt="static image written in an old text editor reading: term% 0x19.org. black on white. cyan border"
+                            />
+                        </a>
+                        <a href="https://gapandfriends.neocities.org/webring" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/gapandfriend.png"
+                                    loading="lazy"
+                                    alt="red handdrawn bubble writing squared text with thin black outline reading: gap &amp; friend! on a 2 tone blue checkered backdrop"
+                            />
+                        </a>
+                        <a href="https://navyjoecomics.neocities.org/" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/navyjoecomics.gif"
+                                    alt="2 tone blue checkered backdrop. centered text on left half white with dark blue outline in retro font reading: NAVY JOE COMICS. black and white portrait of the mascot is on the right of the text"
+                            />
+                        </a>
+                        <a href="https://s-config.com" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/s-config.png"
+                                    loading="lazy"
+                                    alt="tri tone black and white swirling effect with s-config.com written in cursive font"
+                            />
+                        </a>
+                        <a href="https://redchanit.xyz/assets/lainring.html" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/redchanit.png"
+                                    loading="lazy"
+                                    alt="black background with orange flames. red text with black outline saying: redchanit"
+                            />
+                        </a>
+                        <a href="https://crystal.tilde.institute" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/crystal-tilde.gif"
+                                    loading="lazy"
+                                    alt="grey border. black backdrop, glowing neon pink text flicking between 2 phrases: crystal.tilde.institute, your brain is tricking you into thinking. image flickers and has RGB noise and CRT scanlines"
+                            />
+                        </a>
+                        <a href="https://grafo.zone" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/grafo-zone.gif"
+                                    loading="lazy"
+                                    alt="yellow border, reddish black background. yellow text flickering like electricity flicking between 2 phrases: grafo, .zone"
+                            />
+                        </a>
+                        <a href="https://maerk.xyz" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/maerk.png"
+                                    alt="16bit style blonde character on baby blue background. text reads maerk.xyz"
+                                    loading="lazy"
+                            />
+                        </a>
+                        <a href="https://torpus.info" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/torpus.png"
+                                    alt="black and white, dice that says torpus."
+                                    loading="lazy"
+                            />
+                        </a>
+                        <a href="https://nauxnam.net" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/nauxnam.gif"
+                                    alt="spinning human head with glitchy background effect"
+                                    loading="lazy"
+                            />
+                        </a>
+                        <a href="https://lainnet.superglobalmegacorp.com/" target="_blank">
+                            <img
+                                    src="/assets/lain/lainnet.png"
+                                    alt="lainnet banner. red text on black background next to lain iwakura"
+                                    loading="lazy"
+                            />
+                        </a>
+                        <a href="https://nihilism.network" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/nihilism-banner.png"
+                                    alt="nihilism.network banner"
+                                    loading="lazy"
+                            />
+                        </a>
+                        <a href="https://datura.network" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/datura-banner.png"
+                                    alt="datura.network banner"
+                                    loading="lazy"
+                            />
+                        </a>
+                        <a href="https://a10days.net" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/a10days.png"
+                                    alt="a 10 days banner"
+                                    loading="lazy"
+                            />
+                        </a>
+                        <a href="https://scio.icu/" target="_blank" rel="noreferrer">
+                            <img
+                                    src="/assets/lain/SCIO.png"
+                                    alt="SCI0 banner"
+                                    loading="lazy"
+                            />
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <p>Licensed under <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU GPLv3</a></p>
+            <p>source available at <a href="https://github.com/shrapnelnet/blog">github</a></p>
+            <img src="/assets/buttons/gnu.png" alt="gnu gpl logo">
+        </div>
+    </main>
+    <script data-goatcounter="https://goatcounter.shr4pnel.com/count" async="" src="https://goatcounter.shr4pnel.com/count.js"></script>
+    <script src="/assets/js/quote.js"></script>
+</body>
+</html>
