@@ -6,7 +6,7 @@ permalink: jekyll
 ---
 ## Introduction
 
-Yesterday, I rewrote my blog to use [Jekyll](https://jekyllrb.com/). I was previously using a backwards stupid method to fetch new posts on each page load from the server filesystem. If this content changed often it may have been a viable strategy but the posts are static and logically should be in the filesystem
+Yesterday, I rewrote my blog to use [Jekyll](https://jekyllrb.com/). I was previously using a backwards stupid method to fetch new posts on each page load from the server filesystem. If this content changed often it may have been a viable strategy but the posts are static and logically should be in the index itself.
 
 ## Jekyll
 
