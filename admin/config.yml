@@ -2,6 +2,7 @@ backend:
     name: github
     branch: master
     repo: shrapnelnet/blog
+    base_url: https://blog.shr4pnel.com
 media_folder: "assets/uploads"
 collections:
     - name: 'blog'
