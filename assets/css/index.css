@@ -173,6 +173,12 @@ div.friend-container.lain > a > img {
     height: 60px;
 }
 
+@media only screen and (max-width: 900px) {
+    .card {
+        min-width: unset;
+    }
+}
+
 @media only screen and (max-width: 467px) {
     .friend-container {
         margin: 20px auto;
