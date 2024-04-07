@@ -1,8 +1,8 @@
 ---
-title: "Switzerland 2023"
-date: "2023-09-15T21:02:34.199Z"
-permalink: "switzerland"
-description: "photos of my trip to switzerland, lots of cows and trees to be seen here"
+title: Switzerland 2023
+date: 2023-09-15T21:02:34.199Z
+permalink: switzerland
+description: photos of my trip to switzerland, lots of cows and trees to be seen here
 layout: post
 ---
 
@@ -34,6 +34,6 @@ a big clump of houses, seen from the top of the mountain. it was a nice sight. o
 
 ![a tree stump covered in vines and mushrooms](/article/switzerland/mushroom_trunk.jpg)
 
-a few little mushrooms on a tree stump. it lived deep in the forest 
+a few little mushrooms on a tree stump. it lived deep in the forest. goddamn i love mushrooms
 
 as always, don't hesitate to email. <3
