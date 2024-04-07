@@ -1,8 +1,11 @@
 title: shr4pnelblog !!
 description: Ruminations on music, the world and whatever rubbish pops into my head delivered straight to you.
-url: blog.shr4pnel.com
+url: https://blog.shr4pnel.com
 author: tyler!
-plugins:
-    - jekyll-feed
 exclude:
     - .idea
+pagination:
+    enabled: true
+    per_page: 5
+    sort_reverse: true
+    permalink: /page/:num/
