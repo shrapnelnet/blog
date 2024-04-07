@@ -33,3 +33,6 @@ That's okay too! Decap, while previously a netlify offering, allows for external
 This was just a short writeup. Now that writing articles will be easier than ever, I hope to upload more frequently in the coming months. Now get off your ass and make some shit. 
 
 Tyler
+
+p.p.s.
+it did not work immediately, don't fuck around with sudoers permissions while running `bundle install`! it'll bite you in the ass.
