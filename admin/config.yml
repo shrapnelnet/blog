@@ -3,7 +3,6 @@ backend:
     branch: master
     repo: shrapnelnet/blog
     base_url: https://blog.shr4pnel.com
-    auth_endpoint: callback
 media_folder: "assets/uploads"
 collections:
     - name: 'blog'
