@@ -16,7 +16,7 @@ Jekyll has a large ecosystem of premade themes available for a quick portfolio j
 
 ## Automatic page updates
 
-I recently included Decap CMS as a post editor and creator. I prefer it to writing directly in my code editor, and it authenticates directly with github so I don't have to handle authentication. However, Decap doesn't directly modify the filesystem on the server, and after doing some research, found a tool that some sysadmins may not be using!
+I recently included [Decap CMS](https://decapcms.org/docs/intro/) as a post editor and creator. I prefer it to writing directly in my code editor, and it authenticates directly with github so I don't have to handle authentication. However, Decap doesn't directly modify the filesystem on the server, and after doing some research, found a tool that some sysadmins may not be using!
 
 ### But what might this be tyler, you beautiful man?
 
