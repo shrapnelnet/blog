@@ -20,20 +20,20 @@ I will not be rating these songs 0-5, or in any manner. I like all of these song
 
 ![the album cover for "we had good times together" by sewerslvt](/assets/uploads/we_had_good_times_together.jpg)
 
-dissociating - 05:42
-self destruction worldwide broadcast - 04:46
-all the joy in life was gone once you left - 06:36
-the last thing she sent me - 03:46
-light at the end of the tunnel - 05:56
-ultradespair - 05:39
-borderline - 07:12	
-whatever - 04:37
-blissful overdose - 04:11
-inertia status - 04:24
-die alone - 07:12
-sick, twisted, demented - 04:42
-her - 07:19
-goodbye - 17:00
+1. dissociating - 05:42
+2. self destruction worldwide broadcast - 04:46
+3. all the joy in life was gone once you left - 06:36
+4. the last thing she sent me - 03:46
+5. light at the end of the tunnel - 05:56
+6. ultradespair - 05:39
+7. borderline - 07:12
+8. whatever - 04:37
+9. blissful overdose - 04:11
+10. inertia status - 04:24
+11. die alone - 07:12
+12. sick, twisted, demented - 04:42
+13. her - 07:19
+14. goodbye - 17:00
 
 ### Review
 
