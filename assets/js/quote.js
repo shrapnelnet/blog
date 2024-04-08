@@ -64,7 +64,20 @@ const quotebank = [
     "loves to hate!",
     "hates to love!",
     "has popcorn lung!",
-    "is goddamn tired!"
+    "is goddamn tired!",
+    "friends with makarov!",
+    "invented the ak/47!",
+    "Licensed clairvoyant!",
+    "on the agora road!",
+    "set a doctype moron!",
+    "installing adware...",
+    "i have your ip address!!",
+    "pure filth!",
+    "i hate computers!",
+    "meow meow meow",
+    "merry christmas!",
+    "wears an eyepatch!",
+    "made a humans.txt file that you didn't even read..."
 ]
 
 
