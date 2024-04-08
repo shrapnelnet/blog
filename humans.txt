@@ -1,0 +1,14 @@
+/* TEAM */
+    Literally everything: Tyler
+
+/* THANKS */
+    Aaron Swartz
+    Dan White (danooct1)
+    Mozilla Team
+    Hetzner
+    You :)
+
+/* SITE */
+    Language: English
+    IDE: WebStorm, lazy nvim
+    Doctype: HTML5
