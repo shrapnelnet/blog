@@ -77,7 +77,12 @@ const quotebank = [
     "meow meow meow",
     "merry christmas!",
     "wears an eyepatch!",
-    "made a humans.txt file that you didn't even read..."
+    "made a humans.txt file that you didn't even read...",
+    "friends with jay eazy!",
+    "fan of rain!",
+    "certified fresh!",
+    "morbid!",
+    "enjoys scraps of wire!"
 ]
 
 
