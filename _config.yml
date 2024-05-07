@@ -4,6 +4,9 @@ url: https://blog.shr4pnel.com
 author: tyler!
 exclude:
     - .idea
+    - Gemfile
+    - Gemfile.lock
+    - .git
 pagination:
     enabled: true
     per_page: 5
