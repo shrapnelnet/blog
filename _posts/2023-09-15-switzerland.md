@@ -4,6 +4,7 @@ date: 2023-09-15T21:02:34.199Z
 permalink: switzerland
 description: photos of my trip to switzerland, lots of cows and trees to be seen here
 layout: post
+image: /assets/uploads/lausse.jpeg
 ---
 
 I'm going to share some of my favourite photos from my trip to switzerland this year. Suffering from severe writers block and I just really want some content on my blog:)

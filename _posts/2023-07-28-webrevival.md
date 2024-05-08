@@ -4,6 +4,7 @@ date: "2023-07-28T15:04:31.661Z"
 permalink: "webrevival"
 description: "a brief microarticle on my gripes with the modern web development scene as well as what social media has developed into"
 layout: post
+image: /assets/uploads/lausse.jpeg
 ---
 
 today i migrated this domain from render.com to google cloud run. render.com does like my 2 least favourite things, charges for usage hours which is stupid because they don't reset monthly, and have an insanely slow cold start. i think it rebuilds ALL of my npm packages on each cold start.

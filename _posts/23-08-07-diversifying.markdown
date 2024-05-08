@@ -4,6 +4,7 @@ description: "Tyler covers the riveting music scene and mentions a lot of niche 
 date: "2023-08-07T19:11:30.201Z"
 permalink: "diversifying"
 layout: post
+image: /assets/uploads/lausse.jpeg
 ---
 Without attempting to feign some claim that I am some sort of hyper-cultured sophisticate who smokes long cigarillos like a leonardo dicaprio wannabe, most music is really really bad. I can't watch TV, not even a period drama, without there being an Ed Sheeran song playing on the fucking lute. This is a consequence of the conglomerates who own the airwaves also owning most popular musicians, and those musicians losing all cashflow if they write songs that are too interesting to cater to the largest possible audience
 
