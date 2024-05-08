@@ -2,6 +2,7 @@ title: shr4pnelblog !!
 description: Ruminations on music, the world and whatever rubbish pops into my head delivered straight to you.
 url: https://blog.shr4pnel.com
 author: tyler!
+future: true
 exclude:
     - .idea
     - Gemfile
