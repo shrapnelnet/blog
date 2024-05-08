@@ -4,6 +4,7 @@ title: Integrating Jekyll with Decap CMS
 date: 2024-04-07T20:36:00.000Z
 permalink: jekyll
 description: I discuss the merits of jekyll. shock! horror! jekyll! et cetera!
+image: /assets/uploads/lausse.jpeg
 ---
 ## Introduction
 
