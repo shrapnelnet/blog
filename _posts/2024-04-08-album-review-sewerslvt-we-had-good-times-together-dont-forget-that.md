@@ -5,6 +5,7 @@ date: 2024-04-08T13:40:00.000Z
 permalink: we-had-good-times-together-dont-forget-that
 description: A concise review of Sewerslvt's album "we had good times together,
   don't forget that"
+image: /assets/uploads/we_had_good_times_together.jpg
 ---
 ### Introduction
 
