@@ -11,7 +11,7 @@ image: /assets/uploads/we_had_good_times_together.jpg
 
 "[we had good times together, don't forget that](https://sewerslvt.bandcamp.com/album/we-had-good-times-together-dont-forget-that)" is what I consider to be sewerslvt, also known as Jvne's, magnum opus. Written in the aftermath of the tragic loss of her girlfriend, it chronicles the emotions she felt, and touches on themes like loss, grief and depression with a deft touch.
 
-Sewerslvt has been victim to a series of doxxing attempts and threats of violence from various imageboards and forums. All of these are unfounded, and are primarily designed to harass her for being transgender. The sewerslvt project was an attempt to move away from jvne's previous music, often involving mashups of various genres, notably several involving the group Death Grips. 
+Sewerslvt has been victim to a series of doxxing attempts and threats of violence from various imageboards and forums. All of these are unfounded, and are primarily designed to harass her for being transgender. The sewerslvt project was an attempt to move away from jvne's previous music, often involving mashups of various genres, notably several involving the group Death Grips.
 
 ### Review format
 
