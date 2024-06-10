@@ -176,6 +176,10 @@ div.social-links > a {
     text-align: left;
 }
 
+pre.highlight {
+    overflow: scroll;
+}
+
 @media only screen and (max-width: 900px) {
     .card {
         min-width: unset;
