@@ -172,6 +172,10 @@ div.friend-container.lain > a > img {
     height: 60px;
 }
 
+div.social-links > a {
+    text-align: left;
+}
+
 @media only screen and (max-width: 900px) {
     .card {
         min-width: unset;
