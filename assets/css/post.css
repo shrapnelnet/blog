@@ -19,6 +19,10 @@ body {
     background-attachment: fixed;
 }
 
+p, h1 {
+    word-wrap: anywhere;
+}
+
 a {
     color: green;
 }
@@ -32,7 +36,7 @@ p > img {
     margin-bottom: 10px;
 }
 
-.use-ibm > p {
+.use-ibm > p, .use-ibm > ol > li > p, li::marker {
     font-family: "IBM VGA", monospace;
     font-size: 1.125em;
 }
