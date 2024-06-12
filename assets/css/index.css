@@ -176,7 +176,7 @@ div.social-links > a {
     text-align: left;
 }
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 980px) {
     .card {
         min-width: unset;
     }
@@ -233,6 +233,10 @@ div.social-links > a {
 @media only screen and (max-width: 341px) {
     #socials > div > a {
         font-size: x-small;
+    }
+
+    .card > a {
+        font-size: 8px;
     }
 }
 
