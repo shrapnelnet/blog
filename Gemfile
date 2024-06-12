@@ -1,7 +1,8 @@
 source "https://rubygems.org"
 gem "jekyll", "~> 4.3.3"
+gem 'sass-embedded', '~> 1.77', '>= 1.77.5' # fix some bullshit. 403d without this i do not know why
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  gem "jekyll-feed"
   gem "jekyll-paginate-v2"
   gem "jekyll-sitemap"
   gem 'jekyll-seo-tag'
