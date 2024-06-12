@@ -21,18 +21,18 @@
         <h2 class="highlighted">articles</h2>
         <div id="articles">
             {% for post in paginator.posts %}
-                <div class="card">
-                    <img src="/assets/graphics/anon.png" alt="little face with sunglasses">
-                    <a href="{{ post.url }}">{{ post.title }}</a>
-                    <p>{{ post.date | date: "%d/%m/%y" }}</p>
-                </div>
+            <div class="card">
+                <img src="/assets/graphics/anon.png" alt="little face with sunglasses">
+                <a href="{{ post.url }}">{{ post.title }}</a>
+                <p>{{ post.date | date: "%d/%m/%y" }}</p>
+            </div>
             {% endfor %}
             <div class="paginate">
                 {% if paginator.previous_page %}
-                    <a href="{{ paginator.previous_page_path }}">Previous</a>
+                <a href="{{ paginator.previous_page_path }}">Previous</a>
                 {% endif %}
                 {% if paginator.next_page %}
-                    <a href="{{ paginator.next_page_path }}">Next</a>
+                <a href="{{ paginator.next_page_path }}">Next</a>
                 {% endif %}
             </div>
             <p>or uhh just play <a href="https://github.com/shrapnelnet/libremines">minesweeper</a> :3</p>
@@ -178,6 +178,13 @@
                     <img
                             src="/assets/buttons/b4rkod.png"
                             alt="b4rkod's button !!!"
+                            loading="lazy"
+                    />
+                </a>
+                <a href="https://i330.dev" target="_blank" rel="noreferrer">
+                    <img
+                            src="/assets/buttons/i330.gif"
+                            alt="i330s button !?!!!"
                             loading="lazy"
                     />
                 </a>
