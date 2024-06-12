@@ -59,13 +59,15 @@ footer > a {
 
 .title-container {
     width: fit-content;
-    padding: 0 5%;
+    padding: 0;
+    border-bottom: white;
 }
 
 .logo {
     letter-spacing: 5px;
     text-shadow: -4px 3px green;
     text-align: center;
+    margin-bottom: 0;
 }
 
 .highlighted {
@@ -112,6 +114,11 @@ footer > a {
     display: block;
 }
 
+main > .container {
+    margin-top: 0;
+    border-top: white;
+}
+
 @media only screen and (max-width: 467px) {
     .container {
         margin: 10px auto 0;
@@ -133,10 +140,6 @@ footer > a {
 
     .highlighted {
         padding: 5px 15px;
-    }
-
-    .title-container {
-        padding: 5px;
     }
 }
 
