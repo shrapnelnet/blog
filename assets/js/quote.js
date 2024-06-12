@@ -82,7 +82,23 @@ const quotebank = [
     "fan of rain!",
     "certified fresh!",
     "morbid!",
-    "enjoys scraps of wire!"
+    "enjoys scraps of wire!",
+    "free as in freedom!",
+    "RMS' biggest fan!",
+    "XZ utils exploit author!",
+    "friends with linus torvalds!",
+    "not a real programmer!",
+    "brigitte main!",
+    "i renamed twitter!",
+    "just hit the east side of the LBC!",
+    "has 1 hour of computer time this week!",
+    "grounded! (no fly list)",
+    "friends with maia crimew!",
+    "destroyed gradle with my own two hands!",
+    "evil!!!",
+    "proud keychron owner!",
+    "rotten!",
+    "is george w bush!"
 ]
 
 
