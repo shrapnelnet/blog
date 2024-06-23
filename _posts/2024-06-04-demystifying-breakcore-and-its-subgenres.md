@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Demystifying breakcore and its subgenres
+title: Assorted good breakcore tracks
 date: 2024-06-04T19:33:00.000Z
 permalink: breakcore
 description: oh the horror! tyler discusses every sweaty nerd's favourite genre.
