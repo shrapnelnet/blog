@@ -1,12 +1,11 @@
 ---
+layout: post
 title: Switzerland 2023
 date: 2023-09-15T21:02:34.199Z
 permalink: switzerland
 description: photos of my trip to switzerland, lots of cows and trees to be seen here
-layout: post
 image: /assets/uploads/lausse.jpeg
 ---
-
 I'm going to share some of my favourite photos from my trip to switzerland this year. Suffering from severe writers block and I just really want some content on my blog:)
 
 ![A small village house with an apiary in front of a forested sheer mountain face](/article/switzerland/apiary.jpg)
@@ -23,7 +22,7 @@ Small clusters of village dot the landscape as the alps loom on the horizon. you
 
 ![a field full of solid black cows](/article/switzerland/more_black_cows.jpg)
 
-These are mountain cows met on my travels uphill. some have bells attached to them that jingle as they walk. if you were to take the cable car up instead of hiking, you could see hundreds of jingling cows. the brown cow has a really cute haircut, almost like a highland cow. the black and white cow has flies buzzing around his mouth but doesnt smell too bad. they were relaxing in the beautiful mountainside sun.
+These are mountain cows met on my travels uphill. some have bells attached to them that jingle as they walk. if you were to take the cable car up instead of hiking, you could see hundreds of jingling cows. The brown cow has a really cute haircut, almost like a highland cow. the black and white cow has flies buzzing around his mouth but doesnt smell too bad. they were relaxing in the beautiful mountainside sun.
 
 ![a winding gravel path in a clearing in the forest](/article/switzerland/forest_path.jpg)
 
