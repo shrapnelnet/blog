@@ -98,7 +98,12 @@ const quotebank = [
     "evil!!!",
     "proud keychron owner!",
     "rotten!",
-    "is george w bush!"
+    "is george w bush!",
+    "it's a unix system!",
+    "runs on forbidden hardware!",
+    "hosted by gnomes!",
+    "all your base are belong to me!",
+
 ]
 
 
