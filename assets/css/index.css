@@ -50,6 +50,8 @@ p > img {
 
 .title-container {
     width: fit-content;
+    min-height: 118px;
+    min-width: 900px;
     padding: 0;
 }
 
