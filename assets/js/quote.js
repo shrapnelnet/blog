@@ -103,7 +103,11 @@ const quotebank = [
     "runs on forbidden hardware!",
     "hosted by gnomes!",
     "all your base are belong to me!",
-
+    "needs methylphenidate badly!",
+    "is hiring!",
+    "can't afford their own infrastructure!",
+    "has a tenuous relationship with god!",
+    "friends with KoRn!!!",
 ]
 
 
