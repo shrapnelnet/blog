@@ -108,6 +108,7 @@ const quotebank = [
     "can't afford their own infrastructure!",
     "has a tenuous relationship with god!",
     "friends with KoRn!!!",
+    "fucked up the git webhook earlier!"
 ]
 
 
