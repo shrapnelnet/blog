@@ -189,7 +189,6 @@ div.social-links > a {
         margin: 20px auto;
     }
 
-
     #socials > div {
         margin: 20px 0 0;
     }
@@ -219,6 +218,10 @@ div.social-links > a {
 
     .highlighted {
         padding: 5px 15px;
+    }
+
+    .container.title-container {
+        min-height: 95px;
     }
 }
 
