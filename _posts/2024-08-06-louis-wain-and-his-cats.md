@@ -5,7 +5,7 @@ date: 2024-08-06T19:49:00.000Z
 permalink: wain
 description: I write a little about famous victorian era painter Louis Wain, his
   contributions to art, and how mental health affected his style.
-image: /assets/uploads/lausse.jpeg
+image: /assets/uploads/iamveryhappy.jpg
 ---
 Louis Wain is an English artist, known for his drawings of cats satirizing the politics, customs and culture of the late 19th and early 20th century within Britain.
 
