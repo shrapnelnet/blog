@@ -17,7 +17,7 @@ MO2 will work... okay on linux. There is a quick and easy package to bootstrap a
 
 Through this, you can do usual MO installs through Nexus, although the next roadblock is ENB tooling. If you want lighting in Skyrim to not look like total shit, you have to unfortunately use free but gated software (contrib?) from the revered Boris Vorontsov. You hear polarising things about the guy, since he provides what is probably the best lighting (shaders?) or whatever the fuck an ENB is software out there. Not sure if there are any OSS alternatives out there. For sure he's a talented developer.
 
-Problems arise when you try use enbseries on linux, AMD uses RADV as the Vulkan driver, a part of the open source Mesa venture. This somehow pops a breakpoint on loading into Skyrim, and it's a total fucking nightmare. I fixed it by using AMDVLK, the enterprise alternative that many consider inferior. It was previously enterprise only, recently open sourced [here](github.com/GPUOpen-Drivers/AMDVLK). 
+Problems arise when you try use enbseries on linux, AMD uses RADV as the Vulkan driver, a part of the open source Mesa venture. This somehow pops a breakpoint on loading into Skyrim, and it's a total fucking nightmare. I fixed it by using AMDVLK, the enterprise alternative that many consider inferior. It was previously enterprise only, recently open sourced [here](https://github.com/GPUOpen-Drivers/AMDVLK). 
 
 Now, my interests lie in fixing textures clipping and base Skyrim looking like total shit. It's been a decade and a half! 
 
