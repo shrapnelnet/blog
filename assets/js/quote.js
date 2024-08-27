@@ -108,7 +108,19 @@ const quotebank = [
     "can't afford their own infrastructure!",
     "has a tenuous relationship with god!",
     "friends with KoRn!!!",
-    "fucked up the git webhook earlier!"
+    "fucked up the git webhook earlier!",
+    "who do you think you are, i am!",
+    "now violent!",
+    "invented r/wholesome!",
+    "friends with phil elverum!",
+    "invented javascript!",
+    "15,000 hits!",
+    "/privatekey.gpg",
+    "engages in passive substance usage!",
+    "victim of react.js!",
+    "vercel's pricing model sucks!",
+    "muh cloudflare!",
+    "loyal to dongguan elux corporation!"
 ]
 
 
