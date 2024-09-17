@@ -125,7 +125,8 @@ const quotebank = [
     "made in zanzibarland!",
     "NOT solid snake!",
     "is kazuhira 'kaz' miller!",
-    "psycho mantis?"
+    "psycho mantis?",
+    "slowly becoming less fond of systemd!"
 ]
 
 
