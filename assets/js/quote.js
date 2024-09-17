@@ -123,7 +123,8 @@ const quotebank = [
     "loyal to dongguan elux corporation!",
     "friends with harrison ford!",
     "made in zanzibarland!",
-    "NOT solid snake!"
+    "NOT solid snake!",
+    "is kazuhira 'kaz' miller!"
 ]
 
 
