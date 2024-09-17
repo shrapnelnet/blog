@@ -121,7 +121,9 @@ const quotebank = [
     "vercel's pricing model sucks!",
     "muh cloudflare!",
     "loyal to dongguan elux corporation!",
-    "friends with harrison ford!"
+    "friends with harrison ford!",
+    "made in zanzibarland!",
+    "NOT solid snake!"
 ]
 
 
