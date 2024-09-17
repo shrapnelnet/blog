@@ -120,7 +120,8 @@ const quotebank = [
     "victim of react.js!",
     "vercel's pricing model sucks!",
     "muh cloudflare!",
-    "loyal to dongguan elux corporation!"
+    "loyal to dongguan elux corporation!",
+    "friends with harrison ford!"
 ]
 
 
