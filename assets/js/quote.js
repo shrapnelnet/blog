@@ -126,7 +126,28 @@ const quotebank = [
     "NOT solid snake!",
     "is kazuhira 'kaz' miller!",
     "psycho mantis?",
-    "slowly becoming less fond of systemd!"
+    "slowly becoming less fond of systemd!",
+    "quoteaholic!",
+    "excellent relationship with alcohol!",
+    "full of lead!",
+    "will send you straight to hell if you query /.env!",
+    "delivered from god to nginx to you!",
+    "caddy is for cowards!",
+    "refused to release big bosses ashes!",
+    "fond of jerma!",
+    "i like concepts!",
+    "sees in 5 dimensions!",
+    "your codebase scares me!",
+    "disavows skyrim players who spec in 2 handed!",
+    "cannot design a modern looking site!",
+    "now 4000 years old!",
+    "i only update the quotes!",
+    "now confused about the APNG spec!",
+    "i hope you're not my future employer!",
+    "your copy of blog.shr4pnel.com is personalised!",
+    "shut down myspace!",
+    "demoted for eating all the office mugs!",
+    "i sell your data!"
 ]
 
 
