@@ -6,8 +6,6 @@ const quotebank = [
     "still not goth",
     "может правда все закончится вот так!",
     "active cigarette lobby member",
-    "remembers space cake's requiem",
-    "yet another shit in the sandpit",
     "this user is mortal",
     "the internet is serious business",
     "beer respects me",
