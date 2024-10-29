@@ -1,0 +1,6 @@
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: GPTBot
+Disallow: /
+
+Sitemap: https://blog.shr4pnel.com/sitemap.xml
