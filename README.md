@@ -1,3 +1,27 @@
-# shrapnelblog - now rewritten for maybe the third time
+# blog.shr4pnel.com
 
-The current version of source for my blog, built in Jekyll with Liquid.
+## Credits
+
+### jekyll-compress-html (MIT)
+
+[Source code](https://github.com/penibelst/jekyll-compress-html)
+
+### Jekyll (MIT)
+
+[Source code](https://github.com/jekyll/jekyll)
+
+### jekyll-seo-tag (MIT)
+
+[Source code](https://github.com/jekyll/jekyll-seo-tag)
+
+### jekyll-paginate-v2 (MIT)
+
+[Source code](https://github.com/sverrirs/jekyll-paginate-v2)
+
+### jekyll-sitemap (MIT)
+
+[Source code](https://github.com/jekyll/jekyll-sitemap)
+
+### jekyll-feed (MIT)
+
+[Source code](https://github.com/jekyll/jekyll-feed)
