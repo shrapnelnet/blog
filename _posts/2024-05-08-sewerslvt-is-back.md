@@ -10,4 +10,4 @@ https://cynthoni.bandcamp.com/album/sewerslvt-presents-cynthoni-pt-1-ep
 
 
 
-turns out sewerslvt is back after 3 years. so happy to see this! preorder or else.
+turns out sewerslvt is back after 3 years. so happy to see this! preorder or else. 
