@@ -36,7 +36,7 @@ p > img {
     margin-bottom: 10px;
 }
 
-.use-ibm > p, .use-ibm > ol > li > p, li::marker {
+.use-ibm > p, .use-ibm > ol > li, li::marker {
     font-family: "IBM VGA", monospace;
     font-size: 1.125em;
 }
