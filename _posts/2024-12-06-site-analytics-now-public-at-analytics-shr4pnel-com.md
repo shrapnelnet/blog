@@ -7,4 +7,4 @@ description: i explain how much i fucking love data analytics and selling them
   to profit off of you
 image: /assets/uploads/lausse.jpeg
 ---
-analytics are now public [here](https://analyics.shr4pnel.com). don't le pwn me, enjoy good privacy policy techniques (?).
+analytics are now public [here](https://analytics.shr4pnel.com). don't le pwn me, enjoy good privacy policy techniques (?).
