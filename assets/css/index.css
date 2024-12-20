@@ -103,6 +103,7 @@ p > img {
     text-align: right;
     font-size: small;
     margin-left: auto;
+    overflow: hidden;
 }
 
 #socials {
