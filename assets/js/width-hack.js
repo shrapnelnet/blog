@@ -1,6 +1,6 @@
 const resizeHeader = () => {
     const container = document.querySelector("main > .container")
-    const containerWidth = container.scrollWidth
+    const containerWidth = container.clientWidth
     const header = document.querySelector(".container.title-container")
     header.style.minWidth = `${containerWidth}px`
 }
