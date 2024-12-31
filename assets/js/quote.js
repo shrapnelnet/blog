@@ -1,3 +1,8 @@
+// &copy; shrapnelnet. 0 BC til 4 kajillion million years AAD.
+//   .
+//     .
+// . . .
+
 const quotebank = [
     "jesus don't want me for a sunbeam!",
     "is the man who sold the world",
@@ -145,7 +150,20 @@ const quotebank = [
     "your copy of blog.shr4pnel.com is personalised!",
     "shut down myspace!",
     "demoted for eating all the office mugs!",
-    "i sell your data!"
+    "i sell your data!",
+    "now with more hatred!",
+    "oops! all webshit!",
+    "creator of... eurgh....",
+    "grimes has 2 good songs but they're just good.... not excellent. its not my thing really but those two songs are pretty alright. i think. maybe?",
+    "asahi is one fine beer!",
+    "i've seen your source code and i hate it!",
+    "i write code in java to make you upset",
+    "running on slackware!",
+    "gentoo is for hipsters who don't know that they're hipsters!",
+    "this will be MOTDs in 2025:",
+    "still doesn't know how to use active directory in 2025",
+    "bits and bytes and snails and mites!",
+    "words will never hurt me was written by a troglodyte 4 billion years ago to be that recurring bit in garfield where he gets an encyclopedia thrown at him"
 ]
 
 
