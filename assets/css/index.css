@@ -103,7 +103,7 @@ p > img {
     text-align: right;
     font-size: small;
     margin-left: auto;
-    overflow: hidden;
+    overflow: scroll;
 }
 
 #socials {
@@ -177,6 +177,16 @@ div.friend-container.lain > a > img {
 
 div.social-links > a {
     text-align: left;
+}
+
+.graveyard-item {
+    display: flex;
+    flex-direction: column;
+}
+
+#quote {
+    max-width: 850px;
+    margin: 0 auto 15px;
 }
 
 @media only screen and (max-width: 980px) {
