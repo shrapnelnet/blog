@@ -7,12 +7,12 @@ layout: compress
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="google-site-verification" content="Vq32lyl5J9e47ol12YxwagImYWSxck-MFTUAzRtpKEA" />
-    <meta name="ahrefs-site-verification" content="28baa7684dbfc859658c17ff0061e2f80f2dc653a5c45d13d341b04ab5b94dda">   
+    <meta name="google-site-verification" content="Vq32lyl5J9e47ol12YxwagImYWSxck-MFTUAzRtpKEA"/>
+    <meta name="ahrefs-site-verification" content="28baa7684dbfc859658c17ff0061e2f80f2dc653a5c45d13d341b04ab5b94dda">
     <link rel="icon" href="/assets/favicon.ico">
     <link rel="stylesheet" href="/assets/css/index.css">
     <title>{{ page.title }}</title>
-    {% seo title=false %}
+    {% seo title = false %}
 </head>
 <body>
 <header>
@@ -26,18 +26,18 @@ layout: compress
         <h2 class="highlighted">articles</h2>
         <div id="articles">
             {% for post in paginator.posts %}
-            <div class="card">
-                <img src="/assets/graphics/anon.png" alt="little face with sunglasses">
-                <a href="{{ post.url }}">{{ post.title }}</a>
-                <p>{{ post.date | date: "%d/%m/%y" }}</p>
-            </div>
+                <div class="card">
+                    <img src="/assets/graphics/anon.png" alt="little face with sunglasses">
+                    <a href="{{ post.url }}">{{ post.title }}</a>
+                    <p>{{ post.date | date: "%d/%m/%y" }}</p>
+                </div>
             {% endfor %}
             <div class="paginate">
                 {% if paginator.previous_page %}
-                <a href="{{ paginator.previous_page_path }}">Previous</a>
+                    <a href="{{ paginator.previous_page_path }}">Previous</a>
                 {% endif %}
                 {% if paginator.next_page %}
-                <a href="{{ paginator.next_page_path }}">Next</a>
+                    <a href="{{ paginator.next_page_path }}">Next</a>
                 {% endif %}
             </div>
             <p>or uhh just play <a href="https://github.com/shrapnelnet/libremines">minesweeper</a> :3</p>
@@ -92,13 +92,6 @@ layout: compress
                     <img
                             src="/assets/buttons/angels.png"
                             alt="pink background with confetti with original apple pink CRT with monospaced font reading angels are mathematical"
-                            loading="lazy"
-                    />
-                </a>
-                <a href="https://blunt.gay" target="_blank" rel="noreferrer">
-                    <img
-                            src="/assets/buttons/bluntgay.png"
-                            alt="purple outline and text, monospaced, rainbow left aligned, text right aligned"
                             loading="lazy"
                     />
                 </a>
@@ -158,13 +151,6 @@ layout: compress
                             loading="lazy"
                     />
                 </a>
-                <a href="https://psychcool.neocities.org" target="_blank" rel="noreferrer">
-                    <img
-                            src="/assets/buttons/psychool.png"
-                            alt="psychools button! lots of colours and wow and cool and etc"
-                            loading="lazy"
-                    />
-                </a>
                 <a href="https://gau7ilu.xyz" target="_blank" rel="noreferrer">
                     <img
                             src="/assets/lain/gau7ilu.png"
@@ -207,13 +193,6 @@ layout: compress
                             loading="lazy"
                     />
                 </a>
-                <a href="https://bluntsmoker.neocities.org/" target="_blank" rel="noreferrer">
-                    <img
-                            src="/assets/buttons/cockpit.png"
-                            alt="cockpit bluntsmoker's button, reads blunty's barrow"
-                            loading="lazy"
-                    />
-                </a>
                 <a href="https://chrysalism.neocities.org/" target="_blank" rel="noreferrer">
                     <img
                             src="/assets/buttons/chrysalism.png"
@@ -242,6 +221,27 @@ layout: compress
                             loading="lazy"
                     />
                 </a>
+                <a href="https://waxpond.neocities.org//" target="_blank" rel="noreferrer">
+                    <img
+                            src="/assets/buttons/waxpond.png"
+                            alt="waxpond, formerly bluntsmoker's button"
+                            loading="lazy"
+                    />
+                </a>
+            </div>
+            <h2 class="highlighted">graveyard</h2>
+            <sub>Domain expired:</sub>
+            <div class="graveyard friend-container">
+                <img src="/assets/buttons/bluntgay.png"
+                     alt="purple outline and text, monospaced, rainbow left aligned, text right aligned" loading="lazy">
+            </div>
+            <sub>AWOL:</sub>
+            <div class="graveyard friend-container">
+                <img src="/assets/buttons/psychool.png" alt="psychools button! lots of colours and wow and cool and etc"
+                     loading="lazy">
+
+                <img src="/assets/buttons/cockpit.png" alt="cockpit bluntsmoker's button, reads blunty's barrow"
+                     loading="lazy">
             </div>
             <h2 class="highlighted">webrings</h2>
             <div class="flex-wrap">
@@ -268,7 +268,8 @@ layout: compress
         <div class="friend-container lain">
             <div class="friend-container lain">
                 <sub class="lain-text">
-                    email me to be added! everyone below is reprehensible and beyond saving and i do not endorse their numerous actions
+                    email me to be added! everyone below is reprehensible and beyond saving and i do not endorse their
+                    numerous actions
                 </sub>
                 <span class="flex-wrap"></span>
                 <a href="/">
@@ -460,10 +461,10 @@ layout: compress
                             loading="lazy"
                     />
                 </a>
-                <a href="https://faith.rip/" target="_blank" rel="noreferrer">
+                <a href="https://cult.ist/" target="_blank" rel="noreferrer">
                     <img
-                            src="/assets/lain/faith.png"
-                            alt="faith banner"
+                            src="/assets/lain/cultist.png"
+                            alt="cultist (formerly my.faith.rip) banner"
                             loading="lazy"
                     />
                 </a>
@@ -547,6 +548,20 @@ layout: compress
                     <img
                             src="/assets/lain/mm4rk3t.gif"
                             alt="mm4rk3t button !! !"
+                            loading="lazy"
+                    />
+                </a>
+                <a href="https://kinisis.xyz/" target="_blank" rel="noreferrer">
+                    <img
+                            src="/assets/lain/kinisis.png"
+                            alt="kinisis button !! is anybody else tired of spying on their ahrefs crawler? just me?"
+                            loading="lazy"
+                    />
+                </a>
+                <a href="https://myrdin.is-a.dev/" target="_blank" rel="noreferrer">
+                    <img
+                            src="/assets/lain/myrdin.gif"
+                            alt="myrdin button (has a cool little dude on it. awesome)"
                             loading="lazy"
                     />
                 </a>
