@@ -163,7 +163,8 @@ const quotebank = [
     "this will be MOTDs in 2025:",
     "still doesn't know how to use active directory in 2025",
     "bits and bytes and snails and mites!",
-    "words will never hurt me was written by a troglodyte 4 billion years ago to be that recurring bit in garfield where he gets an encyclopedia thrown at him"
+    "words will never hurt me was written by a troglodyte 4 billion years ago to be that recurring bit in garfield where he gets an encyclopedia thrown at him",
+    "20,000 unique visitors!",
 ]
 
 
