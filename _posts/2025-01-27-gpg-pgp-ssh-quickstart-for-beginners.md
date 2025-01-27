@@ -15,7 +15,7 @@ Pubkeys used to terrify me.  Here's the starter guide that I wished I had before
 
 Never share your private key with anybody other than yourself. If you need it to be accessible on multiple devices, password protect your key (you will get a prompt to do this automatically), and transfer it over a secure connection, or preferably off of the network (usb stick, ext hdd). If someone else needs to access your server, they can make their own key, and you can add it to your config later.
 
-Share your public key on the internet. Keep a link to your public key on your website, as well as on [keys.openpgp.org](keys.openpgp.org). Otherwise people won't be able to encrypt their messages to you!
+Share your public key on the internet. Keep a link to your public key on your website, as well as on [keys.openpgp.org](https://keys.openpgp.org). Otherwise people won't be able to encrypt their messages to you!
 
 If you're going to keep password authentication on, make sure it's a good damn password. Use a free and open source audited password manager. I use proton pass. It is not free and open source. I wonder what [Richard](https://rms.sexy) would think....
 
@@ -69,7 +69,7 @@ I recommend using ed25519 as your algorithm, but rsa is absolutely fine for this
 
 ### Getting other people's public keys
 
-Importing public keys is simple, too. GPG keys can be fetched remotely using [keys.openpgp.org](<>), which has helpful documentation. Some people might link their public key on their site. In this case, importing it is as easy as cURLing it into GPG.
+Importing public keys is simple, too. GPG keys can be fetched remotely using [keys.openpgp.org](https://keys.openpgp.org/about/usage), which has helpful documentation. Some people might link their public key on their site. In this case, importing it is as easy as cURLing it into GPG.
 
 `curl -L example.com/my-key.pgp | gpg --import`
 
