@@ -79,7 +79,7 @@ Importing public keys is simple, too. GPG keys can be fetched remotely using [ke
 
 Most email clients support OpenPGP. If you are using Thunderbird, importing a personal key is as simple as exporting it to a file, then adding it to your account settings under "end to end encryption".
 
-To export your key, first find your key ID. Use `gpg --list-secret-keys`, and copy it. The format of this output is as follows:
+To export your key, first find your key ID (or use your email address). Use `gpg --list-secret-keys`, and copy it. The format of this output is as follows:
 
 `sec    <algorithm> <date-created> [capabilities] [expiry]`
 
@@ -91,9 +91,9 @@ Then paste your key ID into an export command:
 
 An armored (ASCII rather than hex) PGP key will be forwarded into the file key.pgp. You can then import it into thunderbird. Make sure you password protect your key! it could stick with you for a long time. Thunderbird can automatically import your recipients pubkey. If this fails, just export their key after importing it, using this command, then add it to your Thunderbird keyring:
 
-`gpg --list-public-keys // get key ID of recipient`
+`gpg --list-public-keys # get key ID of recipient. email address also works`
 
-`gpg --armor --export <key ID> > recipient.pgp`
+`gpg --armor --export <key ID/email> > recipient.pgp`
 
 ### Encrypting things outside of an email client
 
