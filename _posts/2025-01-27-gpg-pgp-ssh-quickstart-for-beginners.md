@@ -143,4 +143,4 @@ After setting options in your ssh config (not on the server), ssh will automatic
 
 ### Did this guide help you?
 
-Send me an encrypted email ;). Here's [my pubkey](https://keys.openpgp.org/vks/v1/by-fingerprint/4350075454B875C6E13073FE2DE1FE56348E60D0). Happy hunting!
+Send me an encrypted email ;). Here's [my pubkey](https://blog.shr4pnel.com/assets/keys/key.pgp). Happy hunting!
