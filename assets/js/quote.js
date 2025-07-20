@@ -165,6 +165,18 @@ const quotebank = [
     "bits and bytes and snails and mites!",
     "words will never hurt me was written by a troglodyte 4 billion years ago to be that recurring bit in garfield where he gets an encyclopedia thrown at him",
     "20,000 unique visitors!",
+    "30,000 unique visitors?",
+    "enjoying the american century of humiliation",
+    "still amongst the living!",
+    "life death and kotlin",
+    "hoarding your loot",
+    "a years worth of quotes couldn't be more inspirational..",
+    "why did people shit on FILAs for 20 years, before becoming acceptable again?",
+    "thinking about herbs",
+    "has mostly quit smoking",
+    "member of ABBA!",
+    "now friendly!",
+    "is chilling at the elephant's foot"
 ]
 
 
