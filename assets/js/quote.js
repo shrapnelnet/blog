@@ -176,7 +176,14 @@ const quotebank = [
     "has mostly quit smoking",
     "member of ABBA!",
     "now friendly!",
-    "is chilling at the elephant's foot"
+    "is chilling at the elephant's foot",
+    "this land is my land",
+    "3x purple heart recipient",
+    "this land will surely vote for me",
+    "broke RSA encryption!",
+    "rolls smokes with cutters choice",
+    "launched wannacry as a bit 30 years ago",
+    "created ARPAnet"
 ]
 
 
