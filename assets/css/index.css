@@ -98,13 +98,14 @@ p > img {
     line-height: 1.5em;
     flex-grow: 1;
     padding-right: 2%;
+    min-width: 0;
 }
 
 .card > p {
     text-align: right;
     font-size: small;
     margin-left: auto;
-    overflow: scroll;
+    white-space: nowrap;
 }
 
 #socials {
