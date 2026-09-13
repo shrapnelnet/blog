@@ -1,6 +1,6 @@
 ---
 layout: post
-title: American television
+title: "Comic 1: American television"
 date: 2025-07-06T18:12:00.000Z
 permalink: american-television
 description: "Comic #1"
